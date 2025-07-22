@@ -1,5 +1,6 @@
-## Hi there 👋
+## 👋 Olá Mundo, eu sou o Darkz! Sou apenas um cara fascinado na área de T.I de modo geral.
 
+❌ Error 404, ainda não tenho muito o que por aqui...
 <!--
 **darrkzz/darrkzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
