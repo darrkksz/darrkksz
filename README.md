@@ -3,7 +3,7 @@
 🔩 Begginer in the world of programming.
 📕 I'm currently started learning: **Pyhton** !
 
-**🖥️ Linux User**
+### 🖥️ Linux User
 - Distro: Debian
 - DE: KDE
 - Coding: VSCode
