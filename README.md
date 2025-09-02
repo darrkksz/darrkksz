@@ -1,7 +1,12 @@
-## Darkz
-👋 Olá mundo, eu sou o **Darkz**! Sou apenas um cara fascinado na área de T.I de modo geral.
+## Darkshima
+👋 Hello World, i'm **Darkshima**! I'm just a guy who loves T.I. in general.
+📕 I'm currently started learning: **Pyhton**
+🖥️ Linux User
+- Distro: Debian
+- DE: KDE
+- Coding: VSCode
 
-❌ **Error 404**, ainda não tenho muito o que por aqui...
+❌ **Error 404**, that's all, i don't have much things to add here at the moment...
 <!--
 **darrkzz/darrkzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
