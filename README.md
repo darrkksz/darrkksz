@@ -4,9 +4,9 @@
 📕 I'm currently started learning: **Pyhton** !
 
 ### 🖥️ Linux User
-- Distro: Debian
-- DE: KDE
-- Coding: VSCode
+- **Distro:** Debian
+- **DE:** KDE
+- **Coding:** VSCode
 
 ❌ **Error 404**, that's all, i don't have much things to add here at the moment...
 <!--
