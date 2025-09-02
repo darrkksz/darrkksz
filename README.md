@@ -1,6 +1,6 @@
 ## Darkshima! ★ 🥋
 👋 Hello World, i'm **Darkshima**! I'm just a guy who loves T.I. in general.   
-🔩 Begginer in the world of programming.  
+🔩 **Begginer** in the world of programming.  
 📕 I'm currently started learning: **Pyhton** !
 
 ### 🖥️ Linux User
