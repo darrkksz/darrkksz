@@ -1,5 +1,5 @@
 ## Darkshima
-👋 Hello World, i'm **Darkshima**! I'm just a guy who loves T.I. in general.
+👋 Hello World, i'm **Darkshima**! I'm just a guy who loves T.I. in general.  
 📕 I'm currently started learning: **Pyhton**
 🖥️ Linux User
 - Distro: Debian
